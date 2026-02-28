@@ -9,7 +9,7 @@ Creator of [Viremorfe Studios](https://viremorfe.studio)
 ### 😈 What I do
 
 - 👁️ Currently developing **Shadead**, a procedural psychological horror game.
-- 💀 I love critical systems with C++, but sometimes I like to have fun with GDScript, or use C++ with GDExtension!
+- 💀 I love critical systems with **C++**, but sometimes I like to have fun with **GDScript**, or use C++ with **GDExtension**!
 - 🫟 I like to make bizarre things in 3D with **Blender**.
 - 🌑 Sometimes I like to make creepy music and SFX with **LMMS**.
 
