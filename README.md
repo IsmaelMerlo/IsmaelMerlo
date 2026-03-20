@@ -2,7 +2,7 @@
 
 Lover of Open-Source, Linux, Godot Engine, Blender, and LMMS.
 
-Creator of [Viremorfe Studios](https://viremorfe.studio)
+Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 ---
 
