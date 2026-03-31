@@ -25,8 +25,6 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 - Frictional Games is my main inspiration for developing games.
 
-- I also tend to use various tools such as Tenacity, Material Maker, OBS, or VSCodium, but I mainly use the ones I mentioned earlier: Godot Engine, Blender, and LMMS.
-
 ---
 
 ### 🪦 My PC
