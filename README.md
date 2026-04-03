@@ -10,7 +10,7 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 - 👁️ Currently developing **Shadead**, a procedural psychological horror game.  
 
-- 💀 I love low-level gamedev stuff with **C++**, **shaders**, **game engines**, **simulations** etc. But sometimes I like to have fun with **GDScript**! Or use C++ for create high-performance plugins with **GDextension**!  
+- 💀 I love low-level gamedev stuff with **C++**, **shaders**, **game engines**, **simulations** etc. But sometimes I like to have fun with **GDScript**! Or use C++ for create high-performance stuff with **GDextension**!  
 - 🧩 I am currently building a **procedural levels plugin** for **Shadead**, which will handle the proceduralization of the **narrative**, **environment**, and **puzzles** of the game.  
 - 🫟 I like to make bizarre things in 3D with **Blender**.  
 - 🌑 Sometimes I like to make creepy music and SFX with **LMMS**.  
