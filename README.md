@@ -19,7 +19,7 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 ### 🐏 My Philosophy
 
-- I'm obsessed with optimization. I survived with a pretty old machine for 10 years and was able to enjoy many games thanks to experienced teams who cared about people with specs like mine. If you work with me, you'll know that I tend to waste a lot of time just to squeeze out 5 more fps (and I love it!).
+- I'm obsessed with optimization. I survived with a pretty old machine for 10 years and was able to enjoy many games thanks to experienced teams who cared about people with specs like mine. Games like Mount & Blade Warband, The Elder Scrolls III Morrowind or the Penumbra series. If you work with me, you'll know that I tend to waste a lot of time just to squeeze out 5 more fps (and I love it!).
 
 - I'm not a commercial developer at all. In fact, I don't even think I'm going to release the game I'm currently working on. If I want money, I'll simply get a day job in my city and dedicate myself to developing in my free time. I'm more of a scientist who constantly experiments with fairly high quality control in what I do, and an eternal learner. I say this so publishers don't come bothering me with their absurd deadlines.
 
