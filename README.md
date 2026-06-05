@@ -1,6 +1,6 @@
 # I'm Ismael Merlo 🐏
 
-Lover of Open-Source, Linux, Godot Engine, Blender, and LMMS.
+Lover of Free and Open-Source Software, Linux, Godot Engine, Blender, and LMMS.
 
 Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
