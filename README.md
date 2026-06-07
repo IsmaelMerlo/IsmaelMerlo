@@ -19,11 +19,11 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 ### 🐏 My Philosophy
 
-- I'm obsessed with optimization. I survived with a pretty old machine for 10 years and was able to enjoy many games thanks to experienced teams who cared about people with specs like mine, games like Mount & Blade Warband, The Elder Scrolls III Morrowind or the Penumbra series. If you work with me, you'll know that I tend to waste a lot of time just to squeeze out 5 more fps (and I love it!).
+- I view game development not as a commercial venture, but as a space for pure experimentation and continuous learning. My focus is on high-quality technical execution and creative freedom, treating each project as a scientific exploration rather than a product. For me, development is a passion meant to be pursued at its own pace, entirely independent of market pressures or external deadlines.
 
-- I'm not a commercial developer at all. In fact, I don't even think I'm going to release the game I'm currently working on. If I want money, I'll simply get a day job in my city and dedicate myself to developing in my free time. I'm more of a scientist who constantly experiments with fairly high quality control in what I do, and an eternal learner. I say this so publishers don't come bothering me with their absurd deadlines.
+  I'm obsessed with optimization. I survived with a pretty old machine for 10 years and was able to enjoy many games thanks to experienced teams who cared about people with specs like mine, games like Mount & Blade Warband, The Elder Scrolls III Morrowind or the Penumbra series. If you work with me, you'll know that I tend to waste a lot of time just to squeeze out 5 more fps (and I love it!).
 
-- Frictional Games is my main inspiration for developing games.
+  Frictional Games and Playdead are my main inspirations for making games.
 
 ---
 
