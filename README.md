@@ -31,7 +31,7 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 I mentioned earlier that my previous machine was quite old, but my current machine is also old. However, it gets the job done!
 
-- **GPU:** Nvidia Quadro K2200 4GB VRAM GDDR5  
+- **GPU:** AMD RX 580 8GB VRAM GDDR5  
 - **CPU:** Intel i5 6500  
 - **RAM:** 8GB  
 - **Motherboard:** H110M Avalon  
