@@ -23,7 +23,7 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
   I'm obsessed with optimization. I survived with a pretty old machine for 10 years and was able to enjoy many games thanks to experienced teams who cared about people with specs like mine, games like Mount & Blade Warband, The Elder Scrolls III Morrowind or the Penumbra series. If you work with me, you'll know that I tend to spend a lot of time just to squeeze out 5 more fps (and I love it!).
 
-  Frictional Games and Playdead are my main inspirations for making games.
+  Frictional Games are my main inspiration for making games.
 
 ---
 
