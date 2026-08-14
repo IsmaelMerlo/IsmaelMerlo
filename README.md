@@ -6,18 +6,18 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 ---
 
-### 😈 What I do
+### What I do
 
-- 👁️ Currently developing **Shadead**, a procedural psychological horror game.  
+- Currently developing **Shadead**, a procedural psychological horror game.  
 
-- 💀 I love low-level gamedev with **C++**, **shaders**, **game engines**, **simulations**, etc. But sometimes I like to have fun with **GDScript**! Or use C++ to create high-performance stuff with **GDextension**!  
-- 🧩 I am currently building a **procedural levels plugin** for **Shadead**, which will handle the proceduralization of the **narrative**, **environment**, and **puzzles** of the game.  
-- 🫟 I like to make bizarre things in 3D with **Blender**.  
-- 🌑 Sometimes I like to make creepy music and SFX with **LMMS**.  
+- I love low-level gamedev with **C++**, **shaders**, **game engines**, **simulations**, etc. But sometimes I like to have fun with **GDScript**! Or use C++ to create high-performance stuff with **GDextension**!  
+- I am currently building a **procedural levels plugin** for **Shadead**, which will handle the proceduralization of the **narrative**, **environment**, and **puzzles** of the game.  
+- I like to make bizarre things in 3D with **Blender**.  
+- Sometimes I like to make creepy music and SFX with **LMMS**.  
 
 ---
 
-### 🐏 My Philosophy
+### My Philosophy
 
 - I view game development not as a commercial venture, but as a space for pure experimentation and continuous learning. My focus is on high-quality technical execution and creative freedom, treating each project as a scientific exploration rather than a product. For me, development is a passion meant to be pursued at its own pace, entirely independent of market pressures or external deadlines.
 
@@ -27,12 +27,11 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 ---
 
-### 🪦 My PC
+### My PC
 
 I mentioned earlier that my previous machine was quite old, but my current machine is also old. However, it gets the job done!
 
 - **GPU:** AMD RX 580 8GB VRAM GDDR5  
 - **CPU:** Intel i5 6500  
 - **RAM:** 8GB  
-- **Motherboard:** H110M Avalon  
 - **OS:** Linux Mint Cinnamon (Ubuntu)
