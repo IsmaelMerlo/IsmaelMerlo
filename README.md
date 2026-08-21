@@ -62,8 +62,6 @@
 
 ---
 
-<div align="center">
-
 ### 🖥️ Hardware Setup
 
 | Component | Spec |
@@ -72,5 +70,3 @@
 | **CPU** | Intel Core i5-6500 |
 | **GPU** | AMD Radeon RX 580 (8GB VRAM) |
 | **RAM** | 8GB DDR4 |
-
-</div>
