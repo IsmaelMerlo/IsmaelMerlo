@@ -2,7 +2,7 @@
 
 # Hi, I'm Ismael Merlo 🐏
 
-**Nomad Game Developer | C++ & GDscript | FOSS Advocate**
+**Game Developer | Nomad Guy | FOSS lover**
 
 [![Website](https://img.shields.io/badge/Viremorfe_Studios-Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://viremorfe-studios.github.io/)
 [![Engine](https://img.shields.io/badge/Engine-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
