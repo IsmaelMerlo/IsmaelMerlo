@@ -10,7 +10,8 @@ Creator of [Viremorfe Studios](https://viremorfe-studios.github.io/)
 
 - Currently developing **Shadead**, a procedural psychological horror game.  
 
-- Throughout my life I have tried dozens of **game engines**, and in the end I opted for **Godot** because of its ease of use, I have a lot of fun with **GDscript** and even today I continue studying the **internal architecture** of the engine, experimenting a lot with **C++/GDextension** to get every last drop of **performance** out of it.
+- Throughout my life I have tried dozens of **game engines**, and in the end I opted for **Godot** because of its ease of use, I have a lot of fun with **GDscript** and even today I continue studying the **internal architecture** of the engine, experimenting a lot with **C++/GDextension** to get every last drop of **performance** out of it.  
+- I like to experiment with **C++**, **shaders**, **game engines** or **simulations**, with **OpenGL**, which I always support in my softwares for **very low-end equipment**, but I also accept that **Vulkan**, although it may be **too explicit**, represents a real advance in the videogame industry (I don't usually use monoplatform APIs like **DirectX** or **Metal** since I don't like **closed environments**).
 - I am currently building a **procedural levels plugin** with **GDextension** for **Shadead**, which will handle the proceduralization of the **narrative**, **environment**, and **puzzles** of the game.  
 - I like to make bizarre things in 3D with **Blender**.  
 - Sometimes I like to make creepy music and SFX with **LMMS**.  
