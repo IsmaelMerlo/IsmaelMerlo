@@ -14,12 +14,12 @@
 ### ⚙️ What I'm Building
 
 * **Shadead** — Psychological horror game focused on procedural environments, narrative, and puzzles.
-* **Procedural GDExtension** — Building a high-performance C++ plugin for Godot to drive *Shadead*'s core systems.
+* **GDExtension Plugin** — Building a high-performance C++ plugin for Godot to drive *Shadead*'s core systems.
 * **3D & Audio** — Crafting eerie models in **Blender** and creepy atmospheric OST/SFX in **LMMS**.
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+### 🛠️ Techs  
 
 #### Languages i use  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,9 +36,9 @@
 
 ---
 
-<div align="center">
-
 ### 📈 Activity
+
+<div align="center">
 
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=IsmaelMerlo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues" alt="Ismael's Personal Stats" />
 
@@ -56,11 +56,13 @@
 
 > *Game development as pure scientific exploration and creative freedom, not market pressure.*
 
-* **Optimization Obsessive:** Having run low-spec hardware for years, I focus on squeezing every last FPS out of modest machines. 
-* **Open Tech Stack:** Big proponent of open standards (OpenGL/Vulkan) and FOSS. I avoid closed vendor locks like DirectX or Metal.
-* **Inspirations:** Heavily influenced by **Frictional Games** and classic atmospheric titles like *Penumbra*.
+* **Optimization Obsessed:** Having run low-spec hardware for years, I focus on squeezing every last frame out of modest machines. 
+* **Open Techs:** Big proponent of open standards (OpenGL/Vulkan) and FOSS. I avoid closed vendor locks like DirectX or Metal.
+* **Inspiration:** Heavily influenced by **Frictional Games** and classic atmospheric titles like *Penumbra*.
 
 ---
+
+<div align="center">
 
 ### 🖥️ Hardware Setup
 
@@ -70,5 +72,7 @@
 | **CPU** | Intel Core i5-6500 |
 | **GPU** | AMD Radeon RX 580 (8GB VRAM) |
 | **RAM** | 8GB DDR4 |
+
+</div>
 
 ---
