@@ -1,38 +1,74 @@
-# I'm Ismael Merlo 🐏
+<div align="center">
 
-Lover of Free and Open-Source Software, Linux, Godot Engine, Blender, and LMMS.
+# Hi, I'm Ismael Merlo 🐏
 
-Creator of <a href="https://viremorfe-studios.github.io/" target="_blank">Viremorfe Studios</a>
+**Nomad Game Developer | C++ & GDscript | FOSS Advocate**
 
----
+[![Website](https://img.shields.io/badge/Viremorfe_Studios-Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://viremorfe-studios.github.io/)
+[![Engine](https://img.shields.io/badge/Engine-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
-### What I do
-
-- Currently developing **Shadead**, a procedural psychological horror game.  
-
-- Throughout my life I have tried dozens of **game engines**, and in the end I opted for **Godot** because of its ease of use, I have a lot of fun with **GDscript** and even today I continue studying the **internal architecture** of the engine, experimenting a lot with **C++/GDextension** to get every last drop of **performance** out of it.  
-- I like to experiment with **C++**, **shaders**, **game engines** or **simulations**, with **OpenGL**, which I always support in my softwares for **very low-end equipment**, but I also accept that **Vulkan**, although it may be **too explicit**, represents a real advance in the videogame industry (I don't usually use monoplatform APIs like **DirectX** or **Metal** since I don't like **closed environments**).
-- I am currently building a **procedural levels plugin** with **GDextension** for **Shadead**, which will handle the proceduralization of the **narrative**, **environment**, and **puzzles** of the game.  
-- I like to make bizarre things in 3D with **Blender**.  
-- Sometimes I like to make creepy music and SFX with **LMMS**.  
+</div>
 
 ---
 
-### My Philosophy
+### ⚙️ What I'm Building
 
-- I view game development not as a commercial venture, but as a space for pure experimentation and continuous learning. My focus is on high-quality technical execution and creative freedom, treating each project as a scientific exploration rather than a product. For me, development is a passion meant to be pursued at its own pace, entirely independent of market pressures or external deadlines.
-
-  I'm obsessed with optimization. I survived with a pretty old machine for 10 years and was able to enjoy many games thanks to experienced teams who cared about people with specs like mine, games like Mount & Blade Warband, The Elder Scrolls III Morrowind or the Penumbra series. If you work with me, you'll know that I tend to spend a lot of time just to squeeze out 5 more fps (and I love it!).
-
-  Frictional Games are my main inspiration for making games.
+* **Shadead** — Psychological horror game focused on procedural environments, narrative, and puzzles.
+* **Procedural GDExtension** — Building a high-performance C++ plugin for Godot to drive *Shadead*'s core systems.
+* **3D & Audio** — Crafting eerie models in **Blender** and creepy atmospheric OST/SFX in **LMMS**.
 
 ---
 
-### My PC
+### 🛠️ Tech Stack & Tools  
 
-I mentioned earlier that my previous machine was quite old, but my current machine is also old. However, it gets the job done!
+#### Languages i use  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)  
 
-- **GPU:** AMD RX 580 8GB VRAM GDDR5  
-- **CPU:** Intel i5 6500  
-- **RAM:** 8GB  
-- **OS:** Linux Mint Cinnamon (Ubuntu)
+#### Rendering in
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-E42528?style=for-the-badge&logo=vulkan&logoColor=white)  
+
+#### Doing the work
+![Godot Engine](https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![LMMS](https://img.shields.io/badge/LMMS-107C41?style=for-the-badge&logo=lmms&logoColor=white)
+
+---
+
+<div align="center">
+
+### 📈 Activity
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=IsmaelMerlo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues" alt="Ismael's Personal Stats" />
+
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsmaelMerlo&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,cmake&langs_count=5" alt="Top Languages" />
+
+<a href="https://github.com/IsmaelMerlo">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelMerlo&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</a>
+
+</div>
+
+---
+
+### 🧠 Philosophy
+
+> *Game development as pure scientific exploration and creative freedom, not market pressure.*
+
+* **Optimization Obsessive:** Having run low-spec hardware for years, I focus on squeezing every last FPS out of modest machines. 
+* **Open Tech Stack:** Big proponent of open standards (OpenGL/Vulkan) and FOSS. I avoid closed vendor locks like DirectX or Metal.
+* **Inspirations:** Heavily influenced by **Frictional Games** and classic atmospheric titles like *Penumbra*.
+
+---
+
+### 🖥️ Hardware Setup
+
+| Component | Spec |
+| :--- | :--- |
+| **OS** | Linux Mint Cinnamon |
+| **CPU** | Intel Core i5-6500 |
+| **GPU** | AMD Radeon RX 580 (8GB VRAM) |
+| **RAM** | 8GB DDR4 |
+
+---
