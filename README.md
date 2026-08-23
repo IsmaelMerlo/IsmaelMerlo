@@ -68,5 +68,5 @@
 | :--- | :--- |
 | **OS** | Linux Mint Cinnamon |
 | **CPU** | Intel Core i5-6500 |
-| **GPU** | AMD Radeon RX 580 (8GB VRAM) |
+| **GPU** | AMD Radeon RX 550 4GB VRAM |
 | **RAM** | 8GB DDR4 |
