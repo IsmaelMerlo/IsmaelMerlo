@@ -45,7 +45,7 @@
 <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsmaelMerlo&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,cmake&langs_count=5" alt="Top Languages" />
 
 <a href="https://github.com/IsmaelMerlo">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IsmaelMerlo&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+   <img width="95%" src="https://github-readme-activity-graph-two.vercel.app/graph?username=IsmaelMerlo&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </a>
 
 </div>
