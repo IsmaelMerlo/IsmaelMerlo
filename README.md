@@ -13,9 +13,10 @@
 
 ### ⚙️ What I'm Building
 
-* **Shadead** — Psychological horror game focused on procedural environments, narrative, and puzzles in Godot Engine.
+* **Shadead** — Psychological horror game focused on procedural environments, narrative, and puzzles in **Godot Engine**.
 * **GDExtension Plugin** — Building a high-performance C++ plugin for Godot to drive *Shadead*'s core systems.
 * **3D & Audio** — Crafting eerie models in **Blender** and creepy atmospheric OST/SFX in **LMMS**.
+* **Others** — I like to do varied **experiments** from time to time focusing on a **pressure-free** workflow.
 
 ---
 
