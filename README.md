@@ -37,18 +37,6 @@
 
 ---
 
-### 📈 Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=IsmaelMerlo&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues" alt="Ismael's Personal Stats" />
-
-<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IsmaelMerlo&layout=compact&theme=dark&hide_border=true&hide=html,css,javascript,cmake&langs_count=5" alt="Top Languages" />
-
-</div>
-
----
-
 ### 🧠 Philosophy
 
 > *Game development as pure scientific exploration and creative freedom, not market pressure.*
